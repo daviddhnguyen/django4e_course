@@ -1,1 +1,1 @@
-# django4e_course
+# Django 4 Everyone Course
